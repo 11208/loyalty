@@ -1,0 +1,5 @@
+classes= 6
+train  = /darknet/train.txt
+valid  = /darknet/test.txt
+names = /darknet/cfg/loyalty.names
+backup = backup
