@@ -35,3 +35,4 @@ sudo cp oishi_7000.weights ~/deep-redeem/modules/darknet/cfg/oishi.weights
 
 CMD: sudo ./darknet detector map cfg/oishi.data cfg/oishi.cfg backup/oishi_10000.weights
 
+
